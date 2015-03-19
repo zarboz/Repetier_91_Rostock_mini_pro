@@ -319,8 +319,8 @@ WARNING: Servos can draw a considerable amount of current. Make sure your system
 #define FEATURE_FAN_CONTROL 1
 #define FEATURE_CONTROLLER 2
 #define UI_LANGUAGE 0
-#define UI_PRINTER_NAME "RepRap"
-#define UI_PRINTER_COMPANY "Home made"
+#define UI_PRINTER_NAME "Rostock Mini Pro"
+#define UI_PRINTER_COMPANY "Delta 3D Printer"
 #define UI_PAGES_DURATION 4000
 #define UI_ANIMATION 1
 #define UI_SPEEDDEPENDENT_POSITIONING 0
